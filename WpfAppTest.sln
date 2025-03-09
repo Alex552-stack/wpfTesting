@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppTest", "WpfAppTest\WpfAppTest.csproj", "{2B321B22-46DA-4049-882F-10F2842DD956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTestGraph", "WpfTestGraph\WpfTestGraph.csproj", "{30951D93-A823-458F-B13E-9A58F90C55D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2B321B22-46DA-4049-882F-10F2842DD956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B321B22-46DA-4049-882F-10F2842DD956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B321B22-46DA-4049-882F-10F2842DD956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30951D93-A823-458F-B13E-9A58F90C55D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30951D93-A823-458F-B13E-9A58F90C55D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30951D93-A823-458F-B13E-9A58F90C55D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30951D93-A823-458F-B13E-9A58F90C55D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
